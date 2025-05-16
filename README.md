@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pixe!
 
-![France](https://flagcdn.com/w40/fr.png)  Currently studying for a BTS in Cybersecurity, I'm also a passionate developer interested in both professional and creative projects. 🚀
+:fr: Currently studying for a BTS in Cybersecurity, I'm also a passionate developer interested in both professional and creative projects. 🚀
 
 ## 🧰 Tech Stack
 
