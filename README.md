@@ -1,16 +1,28 @@
-## Soon 👋
+# 👋 Hi, I'm Pixe!
 
-<!--
-**pixe71/pixe71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇫🇷 Currently studying for a BTS in Cybersecurity, I'm also a passionate developer interested in both professional and creative projects. 🚀
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Languages: Lua | C# | PHP | HTML | CSS  
+- 🛠️ Tools: GitHub | VS Code | Docker | Linux  
+- ☁️ Cloud: OVH  
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pixe71&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pixe71&layout=compact&theme=radical)
+
+## 📫 Contact Me
+
+- Email: [luc.tourniem@gmail.com](mailto:luc.tourniem@gmail.com)  
+- LinkedIn: [Luc Tournie](https://www.linkedin.com/in/luc-tourni%C3%A9-862ba0224/)  
+- Website: [Soon]()
+
+## ✨ Ongoing Projects
+
+None at the moment
+
+---
+
+Thanks for stopping by! 😊 Feel free to explore my projects or reach out if you want to chat about code, collaboration, or creative ideas.
