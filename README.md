@@ -17,7 +17,7 @@ Currently studying for a BTS in Cybersecurity, I'm also a passionate developer i
 
 - Email: [luc.tourniem@gmail.com](mailto:luc.tourniem@gmail.com)  
 - LinkedIn: [Luc Tournie](https://www.linkedin.com/in/luc-tourni%C3%A9-862ba0224/)  
-- Website: [Soon]()
+- Website: [luc-tournie.fr](https://luc-tournie.fr/)
 
 ## ✨ Ongoing Projects
 
