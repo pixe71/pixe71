@@ -25,4 +25,4 @@ Currently studying for a BTS in Cybersecurity, I'm also a passionate developer i
 
 ---
 
-Thanks for stopping by! 😊 Feel free to explore my projects or reach out if you want to chat about code, collaboration, or creative ideas.
+Thanks for stopping by! Feel free to explore my projects or reach out if you want to chat about code, collaboration, or creative ideas.
