@@ -10,8 +10,8 @@ Currently studying for a BTS in Cybersecurity, I'm also a passionate developer i
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pixe71&show_icons=true&title_color=82aaff&icon_color=c792ea&text_color=a6accd&bg_color=ffffff&border_color=dddddd)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pixe71&layout=compact&title_color=82aaff&icon_color=c792ea&text_color=a6accd&bg_color=ffffff&border_color=dddddd)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=pixe71_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=pixe71_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ## 📫 Contact Me
 
