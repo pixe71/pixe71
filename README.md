@@ -10,8 +10,11 @@ Currently studying for a BTS in Cybersecurity, I'm also a passionate developer i
 
 ## 📈 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pixe71&theme=dark&show_icons=true)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=pixe71_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<!-- GitHub Stats avec thème par défaut -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pixe71&show_icons=true)
+
+<!-- Top Languages avec thème par défaut -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pixe71&layout=compact)
 
 ## 📫 Contact Me
 - Email: [luc.tourniem@gmail.com](mailto:luc.tourniem@gmail.com)  
