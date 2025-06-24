@@ -17,7 +17,7 @@ Currently studying for a BTS in Cybersecurity, I'm also a passionate developer i
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pixe71&layout=compact)
 
 ## 📫 Contact Me
-- Email: [luc.tourniem@gmail.com](mailto:luc.tourniem@gmail.com)  
+- Email: [contact@luc-tournie.fr](mailto:contact@luc-tournie.fr)  
 - LinkedIn: [Luc Tournie](https://www.linkedin.com/in/luc-tourni%C3%A9-862ba0224/)  
 - Website: [luc-tournie.fr](https://luc-tournie.fr/)
 
