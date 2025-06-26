@@ -21,7 +21,7 @@ Currently studying for a BTS in Cybersecurity, I'm also a passionate developer i
 - LinkedIn: [Luc Tournie](https://www.linkedin.com/in/luc-tourni%C3%A9-862ba0224/)  
 - Website: [luc-tournie.fr](https://luc-tournie.fr/)
 
-## ✨ Ongoing Projects
+## ✨ Projects
 
 - 🔧 [PassWordManager C#](https://github.com/pixe71/PassWord-Manager) – A simple and secure password manager built in C#, allowing users to locally store, retrieve, and manage their credentials.
 - 🌐 IT hosting company and network installation and administration services
