@@ -4,7 +4,7 @@ Currently studying for a BTS in Cybersecurity, I'm also a passionate developer i
 
 ## 🧰 Tech Stack
 
-- 💻 Languages: Lua | C# | PHP | HTML | CSS  
+- 💻 Languages: Lua | C# | C++ | PHP | HTML | CSS  
 - 🛠️ Tools: GitHub | VS Code | Visual Studio | Docker | Linux | XAMPP
 - ☁️ Cloud: OVH  
 
