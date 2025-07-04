@@ -2,6 +2,7 @@
 
 Currently studying for a BTS in Cybersecurity, I'm also a passionate developer interested in both professional and creative projects. 🚀
 
+I publish a lot of stuff that I do at my school unfortunately without documentation very often and not finished if some want to help translate or what you are welcome 🙂
 ## 🧰 Tech Stack
 
 - 💻 Languages: Lua | C# | C++ | PHP | HTML | CSS  
