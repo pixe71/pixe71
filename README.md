@@ -23,7 +23,6 @@ I publish a lot of stuff that I do at my school unfortunately without documentat
 ## 📫 Contact Me
 - Email: [contact@luc-tournie.fr](mailto:contact@luc-tournie.fr)  
 - LinkedIn: [Luc Tournie](https://www.linkedin.com/in/luc-tourni%C3%A9-862ba0224/)  
-- Website: [luc-tournie.fr](https://luc-tournie.fr/)
 
 ---
 
