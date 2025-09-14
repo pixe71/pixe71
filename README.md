@@ -21,7 +21,6 @@ I publish a lot of stuff that I do at my school unfortunately without documentat
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pixe71&show_icons=true) <!-- Top Languages avec thème par défaut --> 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pixe71&layout=compact)
 ![](https://nirzak-streak-stats.vercel.app/?user=pixe71&theme=default&hide_border=false)<br/>
-![](https://github-contributor-stats.vercel.app/api?username=pixe71&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ## 📫 Contact Me
 - Email: [contact@luc-tournie.fr](mailto:contact@luc-tournie.fr)  
