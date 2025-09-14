@@ -14,7 +14,7 @@ I publish a lot of stuff that I do at my school unfortunately without documentat
 - 👥 Create an organization of people who work in IT to carry out open source projects and help certain projects
 
 ## 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/luc-tourni%C3%A9-862ba0224/](https://www.linkedin.com/in/luc-tourni%C3%A9-862ba0224/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/luc-tourni%C3%A9-862ba0224/)) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@luc-tournie.fr) 
 <br>
 [luc-tournie.fr](https://luc-tournie.fr)
