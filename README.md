@@ -17,7 +17,7 @@ I publish a lot of stuff that I do at my school unfortunately without documentat
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luc-tournié-862ba0224)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@luc-tournie.fr) 
 <br>
-[luc-tournie.fr](https://luc-tournie.fr)
+[luc-tournie.fr](https://luc-tournie.fr/)
 
 ## 📈 GitHub Stats
 
