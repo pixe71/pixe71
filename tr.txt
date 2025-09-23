@@ -1,3 +1,0 @@
-curl -X POST http://localhost:5000/alertes \
--H "Content-Type: application/json" \
--d '{"message": "Test manuel", "source": "poste1"}'
