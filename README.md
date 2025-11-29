@@ -21,18 +21,9 @@ I publish a lot of stuff that I do at my school unfortunately without documentat
 
 ## 📈 GitHub Stats
 
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pixe71&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=pixe71&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pixe71&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=pixe71&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- GitHub Stats avec thème par défaut -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pixe71&show_icons=true) <!-- Top Languages avec thème par défaut --> 
 ---
 
 Thanks for stopping by! Feel free to explore my projects or reach out if you want to chat about code, collaboration, or creative ideas.
