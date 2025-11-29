@@ -20,7 +20,6 @@ I publish a lot of stuff that I do at my school unfortunately without documentat
 [luc-tournie.fr](https://luc-tournie.fr/index.html)
 
 ## 📈 GitHub Stats
-
 ![](https://github-readme-stats.vercel.app/api?username=pixe71&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=pixe71&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pixe71&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
