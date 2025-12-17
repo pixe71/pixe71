@@ -10,6 +10,7 @@ I publish a lot of stuff that I do at my school unfortunately without documentat
 ## 🚀 Projects
 
 [Nexus Finance](https://nexus.pixe71.dev/) (with [rafael12g](https://github.com/rafael12g))
+[Nexus NET](https://github.com/rafael12g/NEXUS-NET) (with [rafael12g](https://github.com/rafael12g))
 
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luc-tournié-862ba0224)
