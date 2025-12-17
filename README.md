@@ -10,6 +10,7 @@ I publish a lot of stuff that I do at my school unfortunately without documentat
 ## 🚀 Projects
 
 [Nexus Finance](https://nexus.pixe71.dev/) (with [rafael12g](https://github.com/rafael12g))
+<br>
 [Nexus NET](https://github.com/rafael12g/NEXUS-NET) (with [rafael12g](https://github.com/rafael12g))
 
 ## 📫 Contact Me
