@@ -2,7 +2,6 @@
 
 Currently studying for a BTS in Cybersecurity, I'm also a passionate developer interested in both professional and creative projects. 🚀
 
-I publish a lot of stuff that I do at my school unfortunately without documentation very often and not finished if some want to help translate or what you are welcome 🙂
 ## 🧰 Tech Stack
 
 ![lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)![c](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)![c#](https://img.shields.io/badge/C%23-20232a?style=for-the-badge&logo=c-sharp&logoColor=white)![c++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c++&logoColor=white)![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
