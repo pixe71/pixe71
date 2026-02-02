@@ -12,7 +12,7 @@ Currently studying for a BTS in Cybersecurity, I'm also a passionate developer i
 <br>
 [Nexus NET](https://github.com/rafael12g/NEXUS-NET) (with [rafael12g](https://github.com/rafael12g))
 <br>
-[Rust-File-Converter](https://github.com/pixe71/Rust-File-Converter) (V1.0.0 available)
+[Rust-File-Converter](https://github.com/pixe71/Rust-File-Converter) - [V1.0.0 available](https://github.com/pixe71/Rust-File-Converter/releases/tag/V1.0.0)
 
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luc-tournié-862ba0224)
