@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Luc !
 
-Currently studying for a BTS in Cybersecurity, I'm also a passionate developer interested in both professional and creative projects. 🚀
+Currently studying for a Bachelor in Admin system and Cybersecurity, I'm also a passionate developer interested in both professional and creative projects. 🚀
 
 ## 🧰 Tech Stack
 
