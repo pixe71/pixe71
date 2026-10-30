@@ -24,8 +24,6 @@ Currently studying for a Bachelor in Admin system and Cybersecurity, I'm also a 
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luc-tournié-862ba0224)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luc.tourniem@gmail.com) 
-<br>
-[luc-tournie.fr](https://luc-tournie.fr)
 
 ## 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=pixe71&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
