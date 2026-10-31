@@ -19,7 +19,9 @@ Currently studying for a Bachelor in Admin system and Cybersecurity, I'm also a 
 <br>
 [Nexus NET](https://github.com/rafael12g/NEXUS-NET) (with [rafael12g](https://github.com/rafael12g))
 <br>
-[Rust-File-Converter](https://github.com/pixe71/Rust-File-Converter) - [V1.1.0 available](https://github.com/pixe71/Rust-File-Converter/releases/tag/V1.1.0) 
+[Rust-File-Converter](https://github.com/pixe71/Rust-File-Converter) - [V1.1.0 available](https://github.com/pixe71/Rust-File-Converter/releases/tag/V1.1.0)
+<br>
+[Hyprixe](https://github.com/pixe71/Hyprixe) - [V1.0.0](https://github.com/pixe71/Hyprixe/releases/tag/v1.0.0)
 
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luc-tournié-862ba0224)
