@@ -15,8 +15,6 @@ Currently studying for a Bachelor in Admin system and Cybersecurity, I'm also a 
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)![debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)![nixos](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)![proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ## 🚀 Projects
 
-[Nexus Finance](https://nexus-finance.pixe71.dev/) (with [rafael12g](https://github.com/rafael12g))
-<br>
 [Nexus NET](https://github.com/rafael12g/NEXUS-NET) (with [rafael12g](https://github.com/rafael12g))
 <br>
 [Rust-File-Converter](https://github.com/pixe71/Rust-File-Converter) - [V1.1.0 available](https://github.com/pixe71/Rust-File-Converter/releases/tag/V1.1.0)
