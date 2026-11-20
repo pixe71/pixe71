@@ -29,6 +29,7 @@ Currently studying for a Bachelor in Admin system and Cybersecurity, I'm also a 
 ![](https://github-readme-stats.vercel.app/api?username=pixe71&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=pixe71&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pixe71&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pixe71&" alt="pixe71" /></p>
 ---
 
 Thanks for stopping by! Feel free to explore my projects or reach out if you want to chat about code, collaboration, or creative ideas.
